@@ -8,9 +8,7 @@
 
 #### 🖧 Network Engineer
 
-I like turning ideas into simple, useful, and user-friendly digital experiences while continuously learning new technologies along the way.
-
-Here you can find some of the projects I've worked on during my journey in Information Technology.
+I love bringing ideas to life through thoughtful design, solid code, and seamless connectivity. Always curious and constantly learning, here’s a showcase of my latest IT projects and experiments!
 
 ## 🌐 Connect With Me:
 
