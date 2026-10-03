@@ -6,7 +6,7 @@
 
 #### 💻 Frontend & Web Development
 
-#### 🖧 Network Engineering
+#### 🖧 Network Engineer
 
 I like turning ideas into simple, useful, and user-friendly digital experiences while continuously learning new technologies along the way.
 
@@ -14,7 +14,7 @@ Here you can find some of the projects I've worked on during my journey in Infor
 
 ## 🌐 Connect With Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tiaaraaay_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amelanggput?stkn=YW4zMWRxcTM5YmVy)
 
 ## 🧑‍💻 Tech Stack:
 
@@ -27,17 +27,8 @@ Here you can find some of the projects I've worked on during my journey in Infor
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats:
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiarasusilo&layout=compact&theme=radical" height="165">
-<img src="https://github-readme-stats.vercel.app/api?username=tiarasusilo&show_icons=true&theme=radical" height="165">
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiarasusilo&theme=radical" height="165">
-</p>
+![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Winbox](https://img.shields.io/badge/Winbox-%23000000.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
